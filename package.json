@@ -1,0 +1,30 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "festival musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoRodriguezGil/FestivalMusica.git"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "web"
+  ],
+  "author": "Alfredo Rodriguez Gil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfredoRodriguezGil/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/AlfredoRodriguezGil/FestivalMusica#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
